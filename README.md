@@ -3,11 +3,11 @@ Machine Learning approach to default modeling
 
 There are 3 Scripts:
 
-0_ABT.ipynb
+__0_ABT.ipynb__
 
-1_Preprocessing.ipynb
+__1_Preprocessing.ipynb__
 
-2a_R_models.ipynb
+__2a_R_models.ipynb__
 
 
 Enjoy!
